@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TG</string>
+
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Acessar</string>
+    <string name="register">Registre-se aqui</string>
+
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="register1">Registrar</string>
+
+</resources>
